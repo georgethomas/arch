@@ -1,0 +1,499 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"U",
+				"ul	Tag"
+			],
+			[
+				"r",
+				"router"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/glyf/Dropbox/architecture/layercake.html",
+			"settings":
+			{
+				"buffer_size": 2211,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"github",
+				"GitHub: Open Gist in Editor"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Package Control: Add Repository"
+			],
+			[
+				"git",
+				"Package Control: Add Repository"
+			],
+			[
+				"git:c",
+				"Git: Commit"
+			],
+			[
+				"Git: R",
+				"Git: Commit history"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"gitc",
+				"Git: Commit"
+			],
+			[
+				"gitcom",
+				"Git: Commit"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"gi",
+				"Git: Commit"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"g",
+				"Git: Pull"
+			],
+			[
+				"git f",
+				"Git: Fetch"
+			],
+			[
+				"git r",
+				"Git: Pull Current Branch"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"Gi",
+				"GitX: Open GitX"
+			],
+			[
+				"Git",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Remove Package"
+			],
+			[
+				"git int",
+				"Git: Init"
+			],
+			[
+				"git ",
+				"Git: Init"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"Packag",
+				"Package Control: List Packages"
+			],
+			[
+				"package control in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 195.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/glyf/Dropbox/architecture/layercake.html",
+		"/Users/glyf/Library/Application Support/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/glyf/Library/Application Support/Sublime Text 2/Packages/Git/Git.sublime-settings",
+		"/Users/glyf/Dropbox/architecture.html",
+		"/Users/glyf/Desktop/Building Impressive Presentations with impress.js/Chapter 2/data-scale-example1.html",
+		"/Users/glyf/Desktop/Building Impressive Presentations with impress.js/Chapter 2/data-perspective.html",
+		"/Users/glyf/Desktop/Building Impressive Presentations with impress.js/Chapter 2/data-positioning.html",
+		"/Users/glyf/Desktop/Building Impressive Presentations with impress.js/Chapter 2/data-scale-example2.html",
+		"/Users/glyf/Desktop/Building Impressive Presentations with impress.js/Chapter 2/css/transform.css",
+		"/Users/glyf/Desktop/Building Impressive Presentations with impress.js/Chapter 2/js/impress.js",
+		"/Users/glyf/github/local/Bootstrap-for-Jade/app.js",
+		"/Users/glyf/github/local/Bootstrap-for-Jade/views/home.jade",
+		"/Users/glyf/github/local/Bootstrap-for-Jade/views/layout.jade",
+		"/Users/glyf/github/local/Bootstrap-for-Jade/routes/index.js",
+		"/Users/glyf/github/local/Bootstrap-for-Jade/views/inc/header.jade",
+		"/Users/glyf/nodetesting/nodeforbeginners/server.js",
+		"/Users/glyf/nodetesting/nodeforbeginners/index.js",
+		"/Users/glyf/nodetesting/nodeforbeginners/router.js",
+		"/Users/glyf/nodetesting/nodeforbeginners/requestHandlers.js",
+		"/Users/glyf/Desktop/cqld-measures-list.json",
+		"/Users/glyf/Library/Caches/TemporaryItems/Outlook Temp/data-core (4).json",
+		"/Users/glyf/Desktop/cqld-export-20130215-164605.jsonld",
+		"/Users/glyf/Desktop/describe_list_example.jsonld",
+		"/Users/glyf/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/glyf/github/local/Bootstrap-for-Jade/views/work.jade",
+		"/Users/glyf/github/local/Bootstrap-for-Jade/views/inc/footer.jade",
+		"/Users/glyf/github/local/Bootstrap-for-Jade/package.json",
+		"/Users/glyf/github/sublime/noob.sublime-project",
+		"/Users/glyf/github/local/Bootstrap-for-Jade/views/inc/scripts.jade",
+		"/Users/glyf/github/local/Bootstrap-for-Jade/views/about.jade",
+		"/Users/glyf/github/local/nodetuts_code/README.md",
+		"/Users/glyf/github/local/nodetuts_code/episode_009/views/layout.jade",
+		"/Users/glyf/github/local/nodetuts_code/episode_009/views/root.jade",
+		"/Users/glyf/github/local/nodetuts_code/episode_009/app.js",
+		"/Users/glyf/github/local/nodetuts_code/episode_012/app.js",
+		"/Users/glyf/github/local/nodetuts_code/episode_013/products.js",
+		"/Users/glyf/github/local/nodetuts_code/episode_002/webtail.js",
+		"/Users/glyf/github/local/nodetuts_code/episode_002/pump.js",
+		"/Users/glyf/git/test",
+		"/Users/glyf/github/local/angular-phonecat/app/js/app.js",
+		"/Users/glyf/nodetesting/app.js",
+		"/Users/glyf/Library/Application Support/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/Users/glyf/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/glyf/nodetesting/var http = require('http');"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"git"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/glyf/Dropbox/architecture/layercake.html",
+					"settings":
+					{
+						"buffer_size": 2211,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_complete": false,
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_disabled_languages":
+							[
+							],
+							"codeintel_live": true,
+							"codeintel_live_disabled_languages":
+							[
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublime_auto_complete": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 116.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.git":
+	{
+		"height": 218.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"a",
+				"/Users/glyf/nodetesting/app.js"
+			],
+			[
+				"u",
+				"untitled"
+			],
+			[
+				"ap",
+				"/Users/glyf/nodetesting/app.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/glyf/Dropbox/architecture/arch.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 337.0,
+	"status_bar_visible": true
+}
