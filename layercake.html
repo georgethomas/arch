@@ -3,21 +3,19 @@
     <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=1024" />
-        <title>Building Impressive Presentations with Impress.js | Data Scale Example 2</title>
+        <title>CSS3 Layercake</title>
         <link href="http://fonts.googleapis.com/css?family=Oswald:bold|Arvo:bold|Cutive+bold|Orbitron:bold|Open+Sans:regular,semibold,italic,italicsemibold|PT+Sans:400,700,400italic,700italic|PT+Serif:400,700,400italic,700italic" rel="stylesheet" />
         <style>
             body{
                 background:#fff;
             }
             .slide{
-                border: 30px solid #297999;
+                border: 6px solid #297999;
                 color: #395B91;
                 font-weight:bold;
-                width:800px;
-                margin:20px;
-                padding:40px;
-                height:500px;
-                text-align:center;
+                width:1024px;
+                height:768px;
+                text-align:left;
                 font-size: 45px;
 
             }
@@ -37,48 +35,74 @@
                 font-size: 12px;
 
             }
+            .data{
+                border: 3px solid #297999;
+                color: #395B91;
+                font-weight:bold;
+                width:600px;
+                height:50px;
+                text-align:center;
+                font-size: 45px;
+            }
+            .search{
+                border: 3px solid #297999;
+                color: red;
+                font-weight:bold;
+                width:600px;
+                height:500px;
+                text-align:center;
+                font-size: 45px;
+                margin:20px;
+                padding:40px;
+            }
+            .query{
+                border: 3px solid #297999;
+                color: red;
+                font-weight:bold;
+                width:1024px;
+                height:768px;
+                text-align:center;
+                font-size: 45px;
+            }
+            .api{
+                border: 3px solid #297999;
+                color: blue;
+                font-weight:bold;
+                width:600px;
+                height:50px;
+                text-align:center;
+                font-size: 45px;
+            }
+
         </style>
     </head>
     <body>
         <div id="impress">
 
             <!-- Row 1 -->
-            <div id="architecture-overview" class="step slide" data-x="0" data-y="0" data-scale="20" >
-                <div><h2>Step 1</h2></div>
+            <div id="overview" class="step slide">
+                <div><h4>overview</h4></div>
             </div>
 
-            <div id="slide2" class="step slide" data-x="-600" data-y="300" data-scale="5" >
-                <div>
-                    <h2>Data Services</h2>
-
-                </div>
+            <div id="data" class="step data" data-x="0" data-y="200" data-z="-1000" data-scale="2.5">
+                <div><h4>data</h4></div>
+            </div>
+            
+            <div id="search" class="step search" data-x="-800" data-y="400" data-z="-3000" data-scale="0.4">
+                <div><h1>search</h1></div>
             </div>
 
-            <div id="slide3" class="step slide" data-x="-600" data-y="300" data-scale="1" >
-                <div>
-                    <h2>Step 3</h2>                    
-                    <ul>
-                        <li class="ul bullet">CRUD Services</li>
-                    </ul>
-                    <ul>
-                        <li class="ul bullet">List Endpoint Services</li>
-                    </ul>
-                    <ul>
-                        <li class="ul bullet">Item Endpoint Services</li>
-                    </ul>
-                    <ul>
-                        <li class="ul bullet">Query Endpoint Services</li>
-                    </ul>
-                    <ul>
-                        <li class="ul bullet">Other Endpoint Services</li>
-                    </ul>
-                    <ul>
-                        <li class="ul bullet">Yet Another Endpoint Services</li>
-                    </ul>
-                </div>
+            <div id="query" class="step query" data-x="800" data-y="200" data-z="-3000" data-scale="0.4">
+                <!--<div><h1>query</h1>-->
+                    <div><img src="file:///Users/glyf/Desktop/Screen%20Shot%202013-07-16%20at%209.04.25%20AM.png" style="max-width:100%;" alt="example screenshot"></div>
+                <!--</div>-->
             </div>
 
+            <div id="api" class="step api" data-x="0" data-y="-200" data-z="-1000" data-scale="2.5">
+                <div><h4>api</h4></div>
+            </div>
         </div>
+        <!--<div id="dumass">whatever</div>-->
         <script src="js/impress.js"></script>
         <script>impress().init();</script>
 
